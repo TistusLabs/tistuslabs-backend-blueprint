@@ -2,9 +2,10 @@
   "name": "tistuslabs-backend-blueprint",
   "main": "server.js",
   "dependencies": {
+    "body-parser": "*",
+    "cors": "^2.8.4",
     "express": "*",
-    "mongoose": "*",
-    "body-parser": "*"
+    "mongoose": "*"
   },
   "scripts": {
     "start": "node server.js"
