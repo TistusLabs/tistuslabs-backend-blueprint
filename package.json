@@ -1,0 +1,20 @@
+{
+  "name": "tistuslabs-backend-blueprint",
+  "main": "server.js",
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "body-parser": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "description": "the blueprint project of tistuslabs backend",
+  "devDependencies": {},
+  "keywords": [
+    "blueprint"
+  ],
+  "author": "shehantissera",
+  "license": "ISC"
+}
